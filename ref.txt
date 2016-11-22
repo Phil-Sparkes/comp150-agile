@@ -6,3 +6,21 @@
 [6] J. Lopez-Martinez, R. Juarez-Ramirez, C. Huertas "Problems in the Adoption of Agile-Scrum Methodologies: A Systematic Literature Review” 2016 4th International Conference in Software Engineering Research and Innovation (CONISOFT), Issue Date: 27-29 April 2016
 [7] T.A. Kayser, Mining group gold: how to cash in on the collaborative brain power of a group, 1995, Irwin.
 [8] "Manifesto for Agile Software Development" at http://agilemanifesto.org/, 2001.
+
+feedback 
+Intro reads a bit like an abstract
+First half of agile section seems too descriptive of what the agile process is."
+This trust is built overtime" should be "over time"
+
+No references included
+Definitely focused on the topic of the article but there's a lot of filler about the agile philosophy
+A lot of insight into the agile philosophy but no references
+No references
+The research articles have been used to prove a statement but have not been argued
+businesses are mentioned but nothing about the game industry
+No referencesI can't spell so I can't judge
+I thought lack of arguments effected conclusion
+
+Perhaps link more to the games industry.
+Needs references ( I am guessing TeX is not working)
+Description and A little insight into Agile, perhaps greater exploration of agile?
