@@ -24,3 +24,5 @@ I thought lack of arguments effected conclusion
 Perhaps link more to the games industry.
 Needs references ( I am guessing TeX is not working)
 Description and A little insight into Agile, perhaps greater exploration of agile?
+
+bibex just download IEEE google scholar
